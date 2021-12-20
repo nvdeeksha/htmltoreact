@@ -42,8 +42,8 @@ export default function Header(){
                       
                       <ul class="nav">
                           <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                          <li><a href="meetings.html">Meetings</a></li>
-                          <li class="scroll-to-section"><a href="#apply">Apply Now</a></li>
+                          <li><a href="meetings.html">Meet</a></li>
+                          <li class="scroll-to-section"><a href="#apply">Apply here</a></li>
                           <li class="has-sub">
                               <a href="javascript:void(0)">Pages</a>
                               <ul class="sub-menu">
